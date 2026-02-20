@@ -1,4 +1,4 @@
-Name:
-Major:
-Year:
-Favorite thing about robotics (so far):
+Name: Shauhard Bhandari	
+Major: Masters of Computer Science
+Year: 1
+Favorite thing about robotics (so far): It's cool.
