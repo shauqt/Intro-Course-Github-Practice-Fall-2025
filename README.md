@@ -1,5 +1,5 @@
 # Intro-Course-Github-Practice-Fall-2025
-Welcome to the NURobotics Intro to Robotics Course's practice repository! We'll be using this repo as practice to get familiar with git and GitHub. The following is a step-by-step instructional guide for making your first commit and push!
+Welcome to the NURobotics Intro to Robotics Course's practice repository. We'll be using this repo as practice to get familiar with git and GitHub. The following is a step-by-step instructional guide for making your first commit and push!
 
 # Purpose of a README file
 ## AKA what even is this file you're reading right now?
